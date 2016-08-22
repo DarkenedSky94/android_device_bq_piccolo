@@ -21,3 +21,5 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 PRODUCT_GMS_CLIENTID_BASE := android-bq
 
+# Custom unofficial build tag
+	TARGET_UNOFFICIAL_BUILD_ID := temasek
